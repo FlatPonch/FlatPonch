@@ -1,12 +1,16 @@
 ### やぁみんな
 ただの中学2年生です。
 FRUPOSのデベロッパーでもあります。
+Fruup(ふるーぷ)を開発しようか悩んでます
 
 ### 言語
-HTML Linux
+HTML Linux C（勉強中）
 
 ### 好きなアニメ
 小林さんちのメイドラゴンとか。
+
+### HomePage
+https://sites.google.com/view/frutponch
 
 <!--
 **FrutPonch/FrutPonch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
