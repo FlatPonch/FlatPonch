@@ -1,6 +1,7 @@
 ### やぁみんな
 ただの中学2年生です。
 FRUPOSのデベロッパーでもあります。
+
 FloorpベースのFruup(ふるーぷ)を開発しようか悩んでます
 
 ### 言語
@@ -11,6 +12,7 @@ HTML Linux C（勉強中）
 
 ### HomePage
 https://sites.google.com/view/frutponch
+
 https://linktr.ee/FrutPonch
 
 <!--
