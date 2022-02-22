@@ -5,7 +5,7 @@ FRUPOSのデベロッパーでもあります。
 FloorpベースのFruup(ふるーぷ)を開発しようか悩んでます
 
 ### 言語
-HTML Linux C（勉強中）
+HTML Linux Python VBScript
 
 ### 好きなアニメと漫画
 小林さんちのメイドラゴンとか。
