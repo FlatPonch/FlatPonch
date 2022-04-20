@@ -2,7 +2,7 @@
 ただの中学2年生です。
 FRUPOSのデベロッパーでもあります。
 
-FloorpベースのFruup(ふるーぷ)を開発しようか悩んでます
+またLinux作ろうか悩んでる
 
 ### 言語
 HTML Linux Python
@@ -11,7 +11,7 @@ HTML Linux Python
 小林さんちのメイドラゴンとか。
 
 ### HomePage
-https://sites.google.com/view/frutponch
+https://sites.google.com/view/flatponch
 
 https://linktr.ee/FrutPonch
 
