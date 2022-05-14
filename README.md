@@ -1,10 +1,10 @@
 ### やぁみんな
-ただの中学生です。
+ただの中学3年生です。
 
-またLinux作ろうか悩んでる
+Magisk向けのモジュール作ろうか悩んでる
 
-### 言語
-HTML Linux Python
+### できること
+HTML Linux Python ADB&Fastboot(Android)
 
 ### 好きなアニメと漫画
 小林さんちのメイドラゴンとか。
