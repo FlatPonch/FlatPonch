@@ -7,7 +7,10 @@ Magisk向けのモジュール作ろうか悩んでる
 HTML Linux Python JavaScript ADB&Fastboot(Android)
 
 ### 使用ソフト
-Visual Studio 2019 何でもできる(語彙力死亡)
+Visual Studio 誰もが知ってるので説明割愛
+
+VSCode HTMLとPythonとJavaScriptを書いてるのに使ってる
+
 
 
 ### 好きなアニメと漫画
