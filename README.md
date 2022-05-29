@@ -1,5 +1,5 @@
 ### やぁみんな
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 ただの中学3年生です。
 
 Magisk向けのモジュール作ろうか悩んでる
