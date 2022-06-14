@@ -1,4 +1,5 @@
 ### やぁみんな
+![icon](https://github.com/FlatPonch/FlatPonch/blob/main/images/FRUPON.png?raw=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
 
