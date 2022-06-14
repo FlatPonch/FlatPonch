@@ -1,28 +1,28 @@
 ### やぁみんな
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
-ただの中学3年生です。
 
-Magisk向けのモジュール作ろうか悩んでる
+ただの中学3年生です。
 
 ### できること
 HTML Linux Python JavaScript ADB&Fastboot(Android)
 
-### 使用ソフト
-
-VSCode HTMLとPythonとJavaScriptを書いてるのに使ってる
-
-
-
 ### 好きなアニメと漫画
-小林さんちのメイドラゴンとか。
+小林さんちのメイドラゴンとか
+クール教信者だいすき
+だっておっｐ(殴
+あと最近SPY×FAMILY見始めたかなー
+
+### 所属
+[monochrome Project.　by Sorakime](https://sorakime.github.io/mncr/)
+
 
 ### Website
-https://sites.google.com/view/flatponch
+Website V1:https://sites.google.com/view/flatponch
 
-https://flatponch.github.io/abehiroshi.html
+Website V2:https://flatponch.github.io/
 
-https://linktr.ee/FrutPonch
+Social Media:https://linktr.ee/FrutPonch
 
 <!--
 **FrutPonch/FrutPonch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
