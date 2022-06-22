@@ -2,6 +2,7 @@
 ![icon](https://github.com/FlatPonch/FlatPonch/blob/main/images/FRUPON.png?raw=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
+FlatPonch(旧名FrutPonch)です。
 
 ただの中学3年生です。
 
@@ -18,7 +19,7 @@ HTML Linux Python JavaScript ADB&Fastboot(Android)
 あと最近SPY×FAMILY見始めたかなー
 
 ### 所属
-[monochrome Project.　by Sorakime](https://sorakime.github.io/mncr/)
+[monochrome Project. by Sorakime](https://sorakime.github.io/mncr/)
 
 
 ### Website
@@ -41,5 +42,5 @@ FlatPonch(旧名FrutPonch)について
 - 何年くらいかわからないけど初めてPCを買ってもらった(DELL製)　今はたまに使ってる(最初はWindows 10が入ってるけど今はWindows 11)
 - 2020年に中学に入学　この頃からロリコンになった
 - 2021年ぐらいに小林さんちのメイドラゴンにはまる
-- 現在はガジェ界隈にいながらソフトウェア開発とかしてる(Twitterなどでは公開しない)
+- 現在はガジェ界隈にいながらソフトウェア開発とかしてる(Twitterなどでは公開しない)　ゲームもしている(主にVR)
 -->
