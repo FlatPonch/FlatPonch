@@ -29,16 +29,17 @@ Website V2:https://flatponch.github.io/
 Social Media:https://linktr.ee/FrutPonch
 
 <!--
-**FrutPonch/FrutPonch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FlatPonch(旧名FrutPonch)について
+上に書いてあるだろ
 
-Here are some ideas to get you started:
+歴史:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 2008年1月16日 俺が生まれる
+- ちっちゃいころに机の角に右眉毛を擦る　それ以来眉毛が生えてこなくなった
+- 2015年にWiiUを買ってもらってスプラにはまった
+- 2017年にSwitchを買ってもらって(発売した年月に買ったので苦戦した)スプラ2にはまった
+- 何年くらいかわからないけど初めてPCを買ってもらった(DELL製)　今はたまに使ってる(最初はWindows 10が入ってるけど今はWindows 11)
+- 2020年に中学に入学　この頃からロリコンになった
+- 2021年ぐらいに小林さんちのメイドラゴンにはまる
+- 現在はガジェ界隈にいながらソフトウェア開発とかしてる(Twitterなどでは公開しない)
 -->
