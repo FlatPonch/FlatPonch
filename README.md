@@ -10,8 +10,11 @@ HTML Linux Python JavaScript ADB&Fastboot(Android)
 
 ### 好きなアニメと漫画
 小林さんちのメイドラゴンとか
+
 クール教信者だいすき
+
 だっておっｐ(殴
+
 あと最近SPY×FAMILY見始めたかなー
 
 ### 所属
