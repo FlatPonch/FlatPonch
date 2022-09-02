@@ -6,13 +6,13 @@ FlatPonch(旧名FrutPonch)です。
 
 ただの中学3年生です。
 
+サイトは学校でもコミットすることもあります
+
 ## できること
 HTML Linux Python JavaScript ADB&Fastboot(Android) 
 
 ## 好きなアニメと漫画
 小林さんちのメイドラゴン
-
-OneRoom(あんましらん)
 
 SPY×FAMILY
 
