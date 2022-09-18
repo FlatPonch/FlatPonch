@@ -1,18 +1,18 @@
 # やぁみんな
-![icon](https://github.com/FlatPonch/FlatPonch/blob/main/images/icon.png?raw=true)
+![icon](https://github.com/FlatPonch/FlatPonch/blob/main/images/icon2.png?raw=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
 FlatPonch(旧名FrutPonch)です。
 
 ただの中学3年生です。
 
+サイトは学校でもコミットすることもあります
+
 ## できること
 HTML Linux Python JavaScript ADB&Fastboot(Android) 
 
 ## 好きなアニメと漫画
 小林さんちのメイドラゴン
-
-OneRoom(あんましらん)
 
 SPY×FAMILY
 
