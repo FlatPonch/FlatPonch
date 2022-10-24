@@ -1,5 +1,6 @@
 # やぁみんな
 <img src="https://github.com/FlatPonch/FlatPonch/blob/main/images/icon2.png?raw=true" width="300">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
 FlatPonch(旧名FrutPonch)です。
