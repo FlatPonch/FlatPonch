@@ -1,4 +1,4 @@
-# FlatPonch <img src="https://github.com/FlatPonch/FlatPonch/images/icon2.png?raw=true" align="right" width="150">
+# FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/icon2.png" align="right" width="150">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
@@ -8,25 +8,25 @@ FlatPonch(旧名FrutPonch)です。
 
 サイトは学校でもコミットすることもあります
 
-## できること
+# できること
 HTML
 Linux
 Python
 JavaScript
 ADB&Fastboot(Android) 
 
-## 好きなアニメと漫画
+# 好きなアニメと漫画
 小林さんちのメイドラゴン
 SPY×FAMILY
 ウマ娘
 
-## 所属
+# 所属
 [monochrome Project.](https://github.com/mncrp)
 
 
-## 宣伝
+# 宣伝
 使ってみてください！喜びます！
-![Monot](https://mncrp.github.io/project/monot)
+[Monot](https://mncrp.github.io/project/monot)
 
 # Website
 Website V1:https://sites.google.com/view/flatponch
