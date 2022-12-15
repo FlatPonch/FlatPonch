@@ -1,4 +1,4 @@
-# FlatPonch # Nya <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/blob/main/images/icon2.png" align="right" width="150">
+# FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/blob/main/images/icon2.png" align="right" width="150">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
@@ -9,13 +9,15 @@ FlatPonch(旧名FrutPonch)です。
 サイトは学校でもコミットすることもあります
 
 ## できること
-HTML Linux Python JavaScript ADB&Fastboot(Android) 
+HTML
+Linux
+Python
+JavaScript
+ADB&Fastboot(Android) 
 
 ## 好きなアニメと漫画
 小林さんちのメイドラゴン
-
 SPY×FAMILY
-
 ウマ娘
 
 ## 所属
@@ -23,7 +25,8 @@ SPY×FAMILY
 
 
 ## 宣伝
-使ってみてください！喜びます！[Monot](https://mncrp.github.io/project/monot)
+使ってみてください！喜びます！
+![Monot](https://mncrp.github.io/project/monot)
 
 # Website
 Website V1:https://sites.google.com/view/flatponch
@@ -46,4 +49,6 @@ FlatPonch(旧名FrutPonch)について
 - 2020年に中学に入学
 - 2021年ぐらいに小林さんちのメイドラゴンにはまるのと新しくPCを買ってもらった　この頃からロリコンになる
 - 現在はガジェ界隈にいながらソフトウェア開発とウェブサイト開発をしている(Twitterなどでは公開しない)　ゲームもしている(主にVRとRoblox)
+
+僕は猫耳おとこの娘だにゃ
 -->
