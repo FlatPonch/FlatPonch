@@ -29,9 +29,7 @@ SPY×FAMILY
 [Monot](https://mncrp.github.io/project/monot)
 
 # Website
-Website V1:https://sites.google.com/view/flatponch
-
-Website V2:https://flatponch.github.io/
+Official Site:https://flatponch.github.io/
 
 Social Media:https://linktr.ee/FrutPonch
 
