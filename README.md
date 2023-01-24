@@ -4,21 +4,17 @@
 
 FlatPonch(旧名FrutPonch)です。
 
-ただの中学3年生です。
-
-サイトは学校でもコミットすることもあります
+ただの高校生です。
 
 # できること
 HTML
 Linux
 Python
 JavaScript
-ADB&Fastboot(Android) 
+ADB&Fastboot(Android)
 
-# 好きなアニメと漫画
-小林さんちのメイドラゴン
-SPY×FAMILY
-ウマ娘
+# 好きなアニメ
+ずんだホライずん
 
 # 所属
 [monochrome Project.](https://github.com/mncrp)
@@ -46,7 +42,8 @@ FlatPonch(旧名FrutPonch)について
 - 何年くらいかわからないけど初めてPCを買ってもらった(DELL製)　今はたまに使ってる(最初はWindows 10が入ってるけど今はWindows 11)
 - 2020年に中学に入学
 - 2021年ぐらいに小林さんちのメイドラゴンにはまるのと新しくPCを買ってもらった　この頃からロリコンになる
+- 2022年後半ぐらいかな？ずんだもんが自分の中でだれも超えられない推しになった　あと念願のNothing phone (1)とear (stick)を買った
 - 現在はガジェ界隈にいながらソフトウェア開発とウェブサイト開発をしている(Twitterなどでは公開しない)　ゲームもしている(主にVRとRoblox)
 
-僕は猫耳おとこの娘だにゃ
+隠れずんだもんなのだ
 -->
