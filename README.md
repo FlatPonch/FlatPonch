@@ -1,3 +1,5 @@
+# English version is [here](https://www.youtube.com/watch?v=DjGhj1wUBd4) (Translate using DeepL)
+
 # FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/zundamon.png" align="right" width="150"><img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/zunko.png" align="right" width="150">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
@@ -7,13 +9,13 @@ FlatPonch(旧名FrutPonch)です。
 ただの高校生です。
 
 # できること
-HTML
-Linux
-Python
-JavaScript
-ADB&Fastboot(Android)
+HTML(簡易的なサイト作り)
+Linux(Archが大好物)
+Python(今はそんな弄ってない)
+JavaScript(これも弄ってない)
+ADB&Fastboot(Android)(コマンドはある程度覚えてる)
 
-# 好きなアニメ
+# アニメ
 ずんだホライずん
 
 <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/kabegamitoka/zunko to zundamon.png" width="200">
@@ -25,6 +27,17 @@ YouTube:[YouTube版ずんだホライずん](https://www.youtube.com/watch?v=DjG
 Mirror:[Google Drive(Original)](https://drive.google.com/file/d/16EvJ_hg4UZf0iTJWANoZaflPCy5jRiy_/view?usp=share_link)
 
 もしSSS合同会社に怒られたら消します
+
+お兄ちゃんはおしまい！
+
+妹のひまりが開発した薬によって女の子になってしまったまひろの日常を描く作品
+
+良き
+
+まひろちゃんすき
+でもずんだもんがすき
+
+# スマホとか
 
 # 所属
 [monochrome Project.](https://github.com/mncrp)
