@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
+[![typograssy](https://typograssy.deno.dev/api?text=FlatPonch%20Kun%20Dayo)](https://github.com/kawarimidoll/typograssy)
+
 FlatPonch(旧名FrutPonch)です。
 
 ただの高校生です。
