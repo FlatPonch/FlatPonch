@@ -23,13 +23,11 @@ Zunda Horizon
 
 Let's watch it!
 
-YouTube:[YouTube version of Zunda Horizon](https://www.youtube.com/watch?v=DjGhj1wUBd4)
-
 Mirror:[Google Drive(Original)](https://drive.google.com/file/d/16EvJ_hg4UZf0iTJWANoZaflPCy5jRiy_/view?usp=share_link)
 
 If SSS LLC gets mad at me, I'll delete it.
 
-My Brother is Done For(お兄ちゃんはおしまい!)
+Onimai
 
 A work that depicts the daily life of Mahiro, who has been turned into a girl by a drug developed by her sister Himari.
 
