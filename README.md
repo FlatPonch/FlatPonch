@@ -24,8 +24,6 @@ ADB&Fastboot(Android)(コマンドはある程度覚えてる)
 
 見ようね！
 
-YouTube:[YouTube版ずんだホライずん](https://www.youtube.com/watch?v=DjGhj1wUBd4)
-
 Mirror:[Google Drive(Original)](https://drive.google.com/file/d/16EvJ_hg4UZf0iTJWANoZaflPCy5jRiy_/view?usp=share_link)
 
 もしSSS合同会社に怒られたら消します
