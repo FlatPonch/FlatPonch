@@ -39,6 +39,10 @@ Mirror:[Google Drive(Original)](https://drive.google.com/file/d/16EvJ_hg4UZf0iTJ
 
 # スマホとか
 
+Nothing phone (1)(メインスマホ)
+
+AQUOS sense4(サブスマホ)
+
 # 所属
 [monochrome Project.](https://github.com/mncrp)
 
