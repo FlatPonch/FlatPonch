@@ -1,4 +1,4 @@
-# English version is [here](https://www.youtube.com/watch?v=DjGhj1wUBd4) (Translate using DeepL)
+# English version is [here](https://github.com/FlatPonch/FlatPonch/blob/main/README-ENG.md) (Translate using DeepL)
 
 # FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/zundamon.png" align="right" width="150"><img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/zunko.png" align="right" width="150">
 
