@@ -1,10 +1,8 @@
-# English version is [here](https://github.com/FlatPonch/FlatPonch/blob/main/README-ENG.md) (Translate using DeepL)
-
-# FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/zundamon.png" align="right" width="150"><img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/zunko.png" align="right" width="150">
+# FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/kleeicon3.jpg" align="right" width="150">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
-[![typograssy](https://typograssy.deno.dev/api?text=%20C:\>%20fastboot%20boot%20C:\Users\FlatPonch\Desktop\Nothing\magiskboot.img20)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=%20Welcome%20to%20FlatPonch's%20GitHub%20Profile!20)](https://github.com/kawarimidoll/typograssy)
 
 FlatPonch(旧名FrutPonch)です。
 
@@ -13,24 +11,16 @@ FlatPonch(旧名FrutPonch)です。
 # できること
 HTML(簡易的なサイト作り)
 Linux(Archが大好物)
-Python(今はそんな弄ってない)
-JavaScript(これも弄ってない)
+JavaScript(苦手)
 ADB&Fastboot(Android)(コマンドはある程度覚えてる)
-
-# アニメ
-ずんだホライずん
-
-<img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/kabegamitoka/zunko to zundamon.png" width="200">
-
-見ようね！
-
-Mirror:[Google Drive(Original)](https://drive.google.com/file/d/16EvJ_hg4UZf0iTJWANoZaflPCy5jRiy_/view?usp=share_link)
 
 # スマホとか
 
-Nothing phone (1)(メインスマホ)
+Nothing phone (1)(メインスマホ、改造済み)
 
-AQUOS sense4(サブスマホ)
+AQUOS sense3 basic(産廃)
+
+Qua Phone QZ(産廃)
 
 # 所属
 [monochrome Project.](https://github.com/mncrp)
@@ -40,9 +30,7 @@ AQUOS sense4(サブスマホ)
 [Monot](https://mncrp.github.io/project/monot)
 
 # Website
-Official Site:https://flatponch.github.io/
-
-Social Media:https://linktr.ee/FrutPonch
+Official Site:[flatponch.xyz](https://flatponch.xyz)
 
 <!--
 FlatPonch(旧名FrutPonch)について
@@ -54,12 +42,11 @@ FlatPonch(旧名FrutPonch)について
 - ちっちゃいころに机の角に右眉毛を擦る　それ以来眉毛が生えてこなくなった
 - 2015年にWiiUを買ってもらってスプラにはまった
 - 2017年にSwitchを買ってもらって(発売した年に買ったので入手に苦戦した)スプラ2にはまった
-- 何年くらいかわからないけど初めてPCを買ってもらった(DELL製)　今はたまに使ってる(最初はWindows 10が入ってたけど今はWindows 11)
+- 何年くらいかわからないけど初めてPCを買ってもらった(DELL製)　今はたまに使ってる(最初はWindows 10が入ってたけど今はLinux)
 - 2020年に中学に入学
 - 2021年ぐらいに小林さんちのメイドラゴンにはまるのと新しくPCを買ってもらった　この頃からロリコンになる
 - 2022年後半ぐらいにずんだもんが自分の中でだれも超えられない推しになった　あと念願のNothing phone (1)とear (stick)を買った
 - 2023年3月に中学を卒業。そしてG913 TKLとG502WLを買った。リアルフォースでも良かったけど。
-- 現在はソフトウェアとウェブサイト開発、動画編集してYouTubeなどに動画を投稿している　ゲームもしている(主にVRとRoblox)
+- 現在はウェブサイト開発オンリー、動画編集してYouTubeなどに動画を投稿している　ゲームもしている(主にVRとRoblox)
 
-隠れずんだもんなのだ
 -->
