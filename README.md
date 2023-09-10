@@ -8,6 +8,7 @@ FlatPonch(旧名FrutPonch)です。
 
 ただの高校生です。
 
+Android関係をなんか作ってます
 # できること
 HTML(簡易的なサイト作り)
 Linux(Archが大好物)
