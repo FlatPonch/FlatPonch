@@ -1,34 +1,31 @@
 # FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/images/kleeicon3.jpg" align="right" width="150">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
-
-[![typograssy](https://typograssy.deno.dev/api?text=%20Welcome%20to%20FlatPonch's%20GitHub%20Profile!20)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=%20Welcome%20to%20FlatPonch's%20GitHub%20Profile!%20)](https://github.com/kawarimidoll/typograssy)
 
 FlatPonchです。
 
 ただの何もできない高校生です。
 
+# Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
+
 # できること
 HTML(簡易的なサイト作り)
 Linux(Archが大好物)
 JavaScript(苦手)
-ADB&Fastboot(Android)(コマンドはある程度覚えてる)
 
 # 所属
 [monochrome Project.](https://github.com/mncrp)
 
 # 宣伝
-使ってみてください！喜びます！
 [Monot](https://mncrp.github.io/project/monot)
 
 # Website
-Official Site:[flatponch.xyz](https://flatponch.xyz)
+Official Site:[flatponch.xyz outdated](https://flatponch.xyz) [GitHub Pages](https://flatponch.github.io)
 
 <!--
-FlatPonchについて
-上に書いてあるだろ
-
-歴史:
+FlatPonchの歴史:
 
 - 2008年1月16日 生まれる
 - 3歳に机の角に右眉毛の一部を擦る　それ以来眉毛が生えてこなくなった
@@ -39,6 +36,6 @@ FlatPonchについて
 - 2021年ぐらいに小林さんちのメイドラゴンにはまったのと新しくPCを買ってもらった　この頃からロリコンになる
 - 2022年後半ぐらいにずんだもんが自分の中でだれも超えられない推しになった　あと念願のNothing phone (1)とear (stick)を買った
 - 2023年3月に中学を卒業。そしてG913 TKLとG502WLを買った。リアルフォースでも良かったけど。
-- 現在はウェブサイト開発オンリー、動画編集してYouTubeなどに動画を投稿している　ゲームもしている(主にVRかRoblox諸々)
+- 2023年3月に通信制高校に入学、現在は普通に気ままに暮らしていたりゲームしたり…
 
 -->
