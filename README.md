@@ -10,10 +10,10 @@ FlatPonchです。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
 
-# できること
+# 言語
 HTML(簡易的なサイト作り)
 Linux(Archが大好物)
-JavaScript(苦手)
+JavaScript(苦手だけど最近書いてる(大嘘))
 
 # 所属
 [monochrome Project.](https://github.com/mncrp)
