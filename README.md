@@ -21,4 +21,4 @@ JavaScript(苦手だけど最近書いてる(大嘘))
 
 # Website
 [flatponch.xyz](https://flatponch.xyz)
-[Linktree]https://linktr.ee/FlatPonch
+[Linktree](https://linktr.ee/FlatPonch)
