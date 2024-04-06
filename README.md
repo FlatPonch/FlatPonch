@@ -1,4 +1,4 @@
-# FlatPonch <img src="https://flatponch.xyz/Images/0250bc4a-1f0c-43b2-95fd-5572f87e2dbb.jpg" align="right" width="150">
+# FlatPonch
 
 [![typograssy](https://typograssy.deno.dev/api?text=%20Welcome%20to%20FlatPonch's%20GitHub%20Profile!%20)](https://github.com/kawarimidoll/typograssy)
 
