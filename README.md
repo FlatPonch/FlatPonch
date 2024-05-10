@@ -17,7 +17,6 @@ JavaScript(苦手だけど最近書いてる(大嘘))
 
 # 所属
 [monochrome Project.](https://github.com/mncrp)
-[Popmix Group](https://x.com/KirigamiG)
 
 # Website
 [flatponch.xyz](https://flatponch.xyz)
