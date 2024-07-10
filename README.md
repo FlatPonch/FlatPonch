@@ -1,3 +1,5 @@
+# English version is still writing.
+
 # FlatPonch
 
 [![typograssy](https://typograssy.deno.dev/api?text=%20Welcome%20to%20FlatPonch's%20GitHub%20Profile!%20)](https://github.com/kawarimidoll/typograssy)
