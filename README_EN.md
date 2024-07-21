@@ -4,9 +4,9 @@
 
 [![typograssy](https://typograssy.deno.dev/api?text=%20Welcome%20to%20FlatPonch's%20GitHub%20Profile!%20)](https://github.com/kawarimidoll/typograssy)
 
-FlatPonchです。
+Hello, i'm FlatPonch.
 
-ただの何もできない高校生です。
+I cant do anything
 
 # Status
 
