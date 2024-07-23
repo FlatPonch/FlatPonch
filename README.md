@@ -22,7 +22,7 @@ JavaScript(苦手だけど最近書いてる(大嘘))
 # 所属
 [monochrome Project.](https://github.com/mncrp)
 
-# Faking Useless App
+# 自分の全く役に立たないアプリ
 [Startpage(EN Translated)](https://start.flatponch.xyz)
 
 # Website
