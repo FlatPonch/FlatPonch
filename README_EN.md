@@ -14,9 +14,12 @@ I cant do anything
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dmu8f8ktpavweuu3a4tc39qap&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dmu8f8ktpavweuu3a4tc39qap&redirect=true)
 
+i use apple music btw
 # Lang
 HTML&CSS
-Linux [i use arch btw](https://archlinux.org))
+
+Linux [i use arch btw](https://archlinux.org)
+
 JavaScript(still lerning)
 
 # Groups im in
