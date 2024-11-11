@@ -1,21 +1,17 @@
-# これは英語版のReadmeです。日本語版は[こちら](https://github.com/FlatPonch)
+# FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/bashame.jpg" align="left" width="150">
 
-# FlatPonch
+Hi, i'm FlatPonch.
 
-[![typograssy](https://typograssy.deno.dev/api?text=%20Welcome%20to%20FlatPonch's%20GitHub%20Profile!%20)](https://github.com/kawarimidoll/typograssy)
+I'm doing something about web or linux.
 
-Hello, i'm FlatPonch.
-
-I cant do anything
+I like Bashame(My deer friend Nokotan)and Kisaki(Blue Archive).
 
 # Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dmu8f8ktpavweuu3a4tc39qap&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dmu8f8ktpavweuu3a4tc39qap&redirect=true)
 
-i use apple music btw
 # Lang
+
 HTML&CSS
 
 Linux [i use arch btw](https://archlinux.org)
@@ -24,6 +20,9 @@ JavaScript(still lerning)
 
 # Groups im in
 [monochrome Project.](https://github.com/mncrp)
+
+# Useless Apps i made
+[Startpage(EN Translated)](https://start.flatponch.xyz)
 
 # Website
 [flatponch.xyz](https://flatponch.xyz)
