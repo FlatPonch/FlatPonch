@@ -8,8 +8,6 @@ FlatPonchです。
 ただの何もできない高校生です。
 
 # Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatponch&theme=dark&show_icons=true)
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dmu8f8ktpavweuu3a4tc39qap&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=dmu8f8ktpavweuu3a4tc39qap&redirect=true)
 
 # 言語
