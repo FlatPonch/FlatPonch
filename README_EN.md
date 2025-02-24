@@ -16,7 +16,7 @@ HTML&CSS&JS
 [monochrome Project.](https://github.com/mncrp)
 
 # Useless Apps i made
-[Startpage(EN Translated)](https://start.flatponch.xyz)
+[Startpage](https://start.flatponch.xyz)
 
 # Website
 [flatponch.xyz](https://flatponch.xyz)
