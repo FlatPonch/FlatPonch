@@ -16,17 +16,10 @@ WebやLinuxに関する何かをやっています。
 今はいつも酷狗を使ってるけど貼ってる
 
 # 言語
-HTML&CSS(簡易的なサイト作り)
-
-Linux (Arch Linuxが大好物)
-
-JavaScript(苦手だけど最近書いてる(大嘘))
+HTML,CSS&JS
 
 # 所属
 [monochrome Project.](https://github.com/mncrp)
-
-# 自分の全く役に立たないアプリ
-[Startpage(EN Translated)](https://start.flatponch.xyz)
 
 # Website
 [flatponch.xyz](https://flatponch.xyz/)
