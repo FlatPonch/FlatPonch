@@ -4,9 +4,7 @@
 
 FlatPonchです。
 
-WebやLinuxに関する何かをやっています。
-
-ブルアカのキサキとミユとミヤコが好きだったりする
+WebやAndroidに関する何かをやっています。
 
 # Status
 
