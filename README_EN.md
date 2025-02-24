@@ -2,9 +2,7 @@
 
 Hi, i'm FlatPonch.
 
-I'm doing something about web or linux.
-
-I like Bashame(My deer friend Nokotan)and Kisaki(Blue Archive).
+I'm doing something about web or android.
 
 # Status
 
@@ -12,11 +10,7 @@ I like Bashame(My deer friend Nokotan)and Kisaki(Blue Archive).
 
 # Lang
 
-HTML&CSS
-
-Linux [i use arch btw](https://archlinux.org)
-
-JavaScript(still lerning)
+HTML&CSS&JS
 
 # Groups im in
 [monochrome Project.](https://github.com/mncrp)
