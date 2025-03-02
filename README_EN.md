@@ -1,8 +1,8 @@
-# FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/bashame.jpg" align="left" width="150">
+# FlatPonch <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/fuuka.png" align="left" width="150">
 
 Hi, i'm FlatPonch.
 
-I'm doing something about web or android.
+I'm doing something about web.
 
 # Status
 
@@ -10,13 +10,10 @@ I'm doing something about web or android.
 
 # Lang
 
-HTML&CSS&JS
+HTML CSS JS
 
 # Groups im in
 [monochrome Project.](https://github.com/mncrp)
-
-# Useless Apps i made
-[Startpage](https://start.flatponch.xyz)
 
 # Website
 [flatponch.xyz](https://flatponch.xyz)
