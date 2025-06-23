@@ -1,6 +1,6 @@
 # English version is [here](https://github.com/FlatPonch/FlatPonch/blob/main/README_EN.md)
 
-# FlatPonch  <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/fuuka.png" align="left" width="150">
+# FlatPonch  <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/fuuka.png" align="left" width="130">
 
 FlatPonchです。
 
